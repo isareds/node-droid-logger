@@ -6,7 +6,7 @@ This node package is a simple wrapper of console.log, it's not a server log like
 Droid-Logger is built as the android default logger (i.e.`Log.e(TAG, my_message)`) and print  the different 3 types of log (Log.e, Log.d, Log.w)
 with 3 differente color
 
-![Examples](https://drive.google.com/file/d/15Z1zbeVCilboxFHPRZIGmVXvPlBYIznZ/view?usp=sharing)
+![Examples](./examples/droid-logger-examples.png)
 
 ### Installation
 
